@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderferify",
+        "uuid": 23757030,
+        "checksum": "17fefa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
